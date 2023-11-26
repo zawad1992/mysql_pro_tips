@@ -45,7 +45,7 @@ This project is released under the [License Type] - see the [LICENSE](LICENSE) f
 
 ## Contact
 
-For questions, suggestions, or collaboration, feel free to reach out to the repository maintainer at [zawad1992@gmail.com].
+For questions, suggestions, or collaboration, feel free to reach out to the repository maintainer at [Email:(zawad1992@gmail.com)].
 
 Thank you for exploring `mysql_pro_tips`!
 
